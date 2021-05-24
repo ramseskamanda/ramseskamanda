@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @ramseskamanda
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 👋 Hi, I'm @ramseskamanda, I'm currently a freelance software engineer from Luxembourg 🇱🇺
 
 👀 I’m interested in a lot of topics, mainly AI (especially RL), blockchain, and distributed computing. 
@@ -13,12 +7,12 @@
 
 💞️ I’m looking to collaborate on any of the following repos (although I probably will never have time to contribute to all of them):
 
-- [ ] Apache Beam (https://github.com/apache/beam)
-- [ ] gvisor (https://github.com/google/gvisor)
-- [ ] Kubernetes (https://github.com/kubernetes/kubernetes)
-- [ ] Freely-wired Neural Networks (https://github.com/noahtren/Freewire)
-- [ ] Acme (https://github.com/deepmind/acme) 👨🏽‍💻 currently here
-- [ ] Ethereum's Go re-implementation (https://github.com/ethereum/go-ethereum)
+- [ ] [Apache Beam](https://github.com/apache/beam)
+- [ ] [gvisor](https://github.com/google/gvisor)
+- [ ] [Kubernetes](https://github.com/kubernetes/kubernetes)
+- [ ] [Freely-wired Neural Networks](https://github.com/noahtren/Freewire)
+- [ ] [Acme](https://github.com/deepmind/acme) 👨🏽‍💻 currently here
+- [ ] [Ethereum's Go re-implementation](https://github.com/ethereum/go-ethereum)
 
 I'll introduce more projects as time goes on, including some of my own, so look forward to that 😏
 
