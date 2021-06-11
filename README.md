@@ -16,8 +16,8 @@
 
 My own projects (very happy to accept contributions if you find them useful):
 
-- [ ] [workon](https://github.com/ramseskamanda/workon) – A CLI startup script to pick what projects to work on
-- [ ] [easy_auth](https://github.com/ramseskamanda/easy_auth) – A Flutter package to manage your authentication state, as easily as possible
+- [x] [workon](https://github.com/ramseskamanda/workon) – A CLI startup script to pick what projects to work on
+- [x] [easy_auth](https://github.com/ramseskamanda/easy_auth) – A Flutter package to manage your authentication state, as easily as possible
 - [ ] [plasma](https://github.com/ramseskamanda/plasma) – A Firebase-like platform for data pipelines and data engineering
 
 And there's more on the way!
