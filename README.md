@@ -14,6 +14,14 @@
 - [ ] [Acme](https://github.com/deepmind/acme) 👨🏽‍💻 currently here
 - [ ] [Ethereum's Go re-implementation](https://github.com/ethereum/go-ethereum)
 
+My own projects (very happy to accept contributions if you find them useful):
+
+- [ ] [workon](https://github.com/ramseskamanda/workon) – A CLI startup script to pick what projects to work on
+- [ ] [easy_auth](https://github.com/ramseskamanda/easy_auth) – A Flutter package to manage your authentication state, as easily as possible
+- [ ] [plasma](https://github.com/ramseskamanda/plasma) – A Firebase-like platform for data pipelines and data engineering
+
+And there's more on the way!
+
 I'll introduce more projects as time goes on, including some of my own, so look forward to that 😏
 
 📫 How to reach me: ramses.kamanda@gmail.com! (Does Github not have a way for people to get in contact with one another?)
