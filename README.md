@@ -11,7 +11,7 @@ My own projects:
 
 - [x] [easy_auth](https://github.com/ramseskamanda/easy_auth) – A Flutter package to manage your authentication state, as easily as possible
 - [x] [delta (private)](https://github.com/ramseskamanda/delta) – A collaborative platform to simplify building data pipelines
-- [x] [Blockchain 101](https://github.com/ramseskamanda/blockchain_explorer) – A template repository to explore blockchain, including new proof of concepts
+- [x] [Blockchain 101](https://github.com/ramseskamanda/explore-blockchain) – A template repository to explore blockchain, including new proof of concepts
 - [x] [workon](https://github.com/ramseskamanda/workon) – A CLI startup script to pick what projects to work on
 - [ ] [Personal website](https://github.com/ramseskamanda/meetramses) – Personal website
 - [ ] [censrd](https://github.com/ramseskamanda/censrd) – Audio censoring from microphone
